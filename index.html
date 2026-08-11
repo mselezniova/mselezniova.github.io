@@ -152,7 +152,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="profile-links">
 <p><i class="bi bi-geo-alt"></i> TU Darmstadt, Germany</p>
 <p><i class="bi bi-envelope"></i> <a href="mailto:m.seleznova@stsl.tu-darmstadt.de">Email</a></p>
-<p><i class="bi bi-mortarboard"></i> <a href="https://scholar.google.com/citations?user=YOUR_ID">Google Scholar</a></p>
+<p><i class="bi bi-mortarboard"></i> <a href="https://scholar.google.com/citations?user=4-2hQt8AAAAJ&amp;hl=uk">Google Scholar</a></p>
 </div>
 </section>
 </div>
@@ -244,7 +244,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/mselezniova\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
