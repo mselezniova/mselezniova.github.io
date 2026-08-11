@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - google16de0092a70a120d.html
 
 website:
   title: "✨ Mariia Seleznova"
