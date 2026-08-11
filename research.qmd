@@ -1,0 +1,51 @@
+# Research 
+
+I work on the mathematical foundations of deep learning. I am particularly interested in understanding:
+
+- **Generalization:** How and when can we predict the performance of trained neural networks on previously unseen data?
+
+- **Stability & Signal Propagation:**  How can we ensure stable information flow in deep neural networks?
+
+- **Feature Learning:** How do neural networks develop useful internal representations during training?
+
+My research is funded by the DFG Emmy Noether project **[RMT4DL (Random Matrix Theory for Deep Learning)](https://gepris.dfg.de/project/572957656/2)**, in which I develop probabilistic and random matrix theory methods to study these questions.
+
+<div style="height: 1rem;"></div>
+
+## Publications & Preprints
+
+**How Long Does Infinite Width Last? Signal Propagation in Long-Range Linear Recurrences** ([link](https://arxiv.org/abs/2605.05113))\
+M. Seleznova.\
+*arXiv preprint*, 2026.
+
+**GradPCA: Leveraging NTK Alignment for Reliable Out-of-Distribution Detection** ([link](https://openreview.net/pdf?id=7rvMexIZA1))\
+M. Seleznova, H. H. Chou, C. M. Verdun, G. Kutyniok.\
+*International Conference on Learning Representations (ICLR)*, 2026.
+
+**Conditional Deep Generative Modeling of Blood-Based Infrared Spectra Enables Controlled In-Silico Phenotyping Studies** ([link](https://www.researchsquare.com/article/rs-8540695/v1))\
+N. Leopold-Kerschbaumer, T. Halenke, S. Süzeroğlu, M. Jung, M. Seleznova, N. Thorisch, J. Lorenz, T. Bocklitz, B. Eskofier, G. Kutyniok, F. Krausz, K. Kepesidis.\
+*Research Square preprint*, 2026.
+
+**Revisiting Glorot Initialization for Long-Range Linear Recurrences** ([link](https://proceedings.neurips.cc/paper_files/paper/2025/file/4fbc7f29151b7c1f0e1f1e5c51c4f5b3-Paper-Conference.pdf))\
+N. Bar\*, M. Seleznova\*, Y. Alexander, G. Kutyniok, R. Giryes.\
+*Advances in Neural Information Processing Systems (NeurIPS)*, 2025. (*\*Equal contribution.*)
+
+**Analyzing Training Dynamics of Deep Neural Networks: Insights and Limitations of the Neural Tangent Kernel Regime** ([link](https://edoc.ub.uni-muenchen.de/34395/1/Seleznova_Mariia.pdf))\
+M. Seleznova.\
+*PhD thesis*, Ludwig Maximilian University of Munich, 2024.
+
+**Neural (Tangent Kernel) Collapse** ([link](https://proceedings.neurips.cc/paper_files/paper/2023/file/3477ca0ce484aa2fa42c1361ab601c25-Paper-Conference.pdf))\
+M. Seleznova, D. Weitzner, R. Giryes, G. Kutyniok, H. H. Chou.\
+*Advances in Neural Information Processing Systems (NeurIPS)*, 2023.
+
+**Neural Tangent Kernel Beyond the Infinite-Width Limit: Effects of Depth and Initialization** ([link](https://proceedings.mlr.press/v162/seleznova22a.html))\
+M. Seleznova, G. Kutyniok.\
+*International Conference on Machine Learning (ICML)*, **Spotlight**, 2022.
+
+**Analyzing Finite Neural Networks: Can We Trust Neural Tangent Kernel Theory?** ([link](https://proceedings.mlr.press/v145/seleznova22a.html))\
+M. Seleznova, G. Kutyniok.\
+*Mathematical and Scientific Machine Learning (MSML)*, 2022.
+
+**Guided Exploration of User Groups** ([link](https://dl.acm.org/doi/abs/10.14778/3397230.3397242))\
+M. Seleznova, B. Omidvar-Tehrani, S. Amer-Yahia, E. Simon.\
+*Proceedings of the VLDB Endowment (PVLDB)*, 2020.

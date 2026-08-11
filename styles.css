@@ -1,0 +1,86 @@
+.quarto-title-block {
+  display: none;
+}
+
+a {
+  color: #2f7f77;
+}
+
+a:hover {
+  color: #205e5c;
+}
+
+.profile-links i,
+.hero-photo i {
+    width: 1.2em;
+    display: inline-block;
+    color: #777;
+}
+
+.profile-links {
+    margin-top: 1rem;
+    font-size: 0.92rem;
+}
+
+.profile-links p {
+    margin-bottom: 0.35rem;
+}
+
+.profile-links i {
+    width: 1.3em;
+    color: #666;
+}
+
+.join-box {
+  background-color: color-mix(in srgb, var(--bs-primary) 12%, white);
+  border-left: 5px solid var(--bs-primary);
+  border-radius: 10px;
+  padding: 0.5rem 1rem;
+  margin: 2rem 0;
+}
+
+.hero {
+  width: min(900px, calc(100% - 4rem));
+  margin: 5rem auto 0 auto;
+  display: flex;
+  grid-template-columns: 280px 1fr;
+  gap: 3rem;
+  align-items: flex-start;
+}
+
+.profile {
+  width: 82%;
+  border-radius: 18px;
+  display: block;
+  margin-bottom: 1.5rem;
+}
+
+.hero-profile h3 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+}
+
+.hero-profile p {
+  margin: 0.3rem 0;
+}
+
+.email {
+  font-size: 0.85rem;
+}
+
+.hero-text {
+  padding-top: 0rem;
+}
+
+.hero-text h1 {
+  margin-top: 0;
+}
+
+@media (max-width: 800px) {
+  .hero {
+    width: min(92%, 600px);
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+    margin-top: 2rem;
+  }
+}

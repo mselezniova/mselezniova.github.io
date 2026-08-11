@@ -1,0 +1,21 @@
+# Teaching 
+
+### Applied Machine Learning in Python
+
+I developed and taught this course for mathematics students at LMU Munich. The course introduces machine learning methods through interactive Jupyter notebooks, programming exercises, and open-ended projects. All the course materials are publicly available on GitHub.
+
+➡️ **Course repository:** [Applied Machine Learning in Python](https://github.com/mselezniova/AppliedML)
+
+<div style="height: 1.5rem;"></div>
+
+### Teaching at LMU Munich
+
+- **Applied Machine Learning in Python** (MSc), Lecturer (Summer 2025, 2026)
+- **The Modern Mathematics of Artificial Intelligence** (MSc Seminar, Winter 2025–26)
+- **Computational Mathematics** (BSc), Lecturer (Winter 2025–26)
+- Teaching Assistant:
+  - Mathematical and Statistical Machine Learning
+  - Convex Optimization
+  - Mathematical Signal and Image Processing
+  - Multivariate Analysis
+  - Linear Algebra
