@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - googlebeb9be5888371595.html
+    - robots.txt
 
 website:
   title: "✨ Mariia Seleznova"
