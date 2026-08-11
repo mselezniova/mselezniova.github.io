@@ -5,6 +5,7 @@ project:
 
 website:
   title: "✨ Mariia Seleznova"
+  site-url: https://mselezniova.github.io
   navbar:
     left:
       - text: Home
@@ -22,7 +23,7 @@ format:
       - minty
       - brand 
     css: styles.css
-    toc: true
+    toc: false
 
 
 
