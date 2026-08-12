@@ -5,8 +5,9 @@ project:
     - robots.txt
 
 website:
-  title: "✨ Mariia Seleznova"
+  title: "Mariia Seleznova"
   site-url: https://mselezniova.github.io
+  description: "Junior Research Group Leader at TU Darmstadt working on the mathematical foundations of deep learning."
   navbar:
     left:
       - text: Home
