@@ -37,9 +37,13 @@ My research focuses on the mathematical foundations of deep learning. I use prob
 Before joining TU Darmstadt, I was a postdoctoral researcher at the [Chair for Mathematical Foundations of Artificial Intelligence](https://www.math.lmu.de/math4ai/en/) at Ludwig Maximilian University of Munich, where I also completed my PhD under the supervision of [Gitta Kutyniok](https://www.math.lmu.de/math4ai/en/members/contact-page/gitta-kutyniok-0eedf402.html). 
 
 ::: {.join-box}
-**Open positions: PhD & HiWi**
+**Open positions**
 
-I'm looking for PhD students and student research assistants (HiWis) to join my group at TU Darmstadt. If you're interested, please send me an email with your CV, transcript(s), and a few words about your mathematical and machine learning background.
+I'm looking for PhD students and student research assistants (HiWis) to join my group at TU Darmstadt.
+
+**PhD position:** Please see the [TU Darmstadt job portal](https://www.career.tu-darmstadt.de/tu-darmstadt/job/57393) for details and to apply.
+
+**HiWi positions:** If you're interested in joining the group as a student research assistant, please send me an email with your CV, transcript(s), and a few words about your mathematical and machine learning background.
 :::
 
 :::
