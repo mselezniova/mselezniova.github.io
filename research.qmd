@@ -16,15 +16,15 @@ My research is funded by the DFG Emmy Noether project **[RMT4DL (Random Matrix T
 
 **How Long Does Infinite Width Last? Signal Propagation in Long-Range Linear Recurrences** ([link](https://arxiv.org/abs/2605.05113))\
 M. Seleznova.\
-*arXiv preprint*, 2026.
+*Advances in Neural Information Processing Systems (NeurIPS)*, 2026. (*to appear*)
+
+**Conditional Deep Generative Modeling of Blood-Based Infrared Spectra Enables Controlled In-Silico Phenotyping Studies** ([link](https://www.researchsquare.com/article/rs-8540695/v1))\
+N. Leopold-Kerschbaumer, T. Halenke, S. Süzeroğlu, M. Jung, M. Seleznova, N. Thorisch, J. Lorenz, T. Bocklitz, B. Eskofier, G. Kutyniok, F. Krausz, K. Kepesidis.\
+*npj Digital Medicine (Springer Nature)*, 2026.
 
 **GradPCA: Leveraging NTK Alignment for Reliable Out-of-Distribution Detection** ([link](https://openreview.net/pdf?id=7rvMexIZA1))\
 M. Seleznova, H. H. Chou, C. M. Verdun, G. Kutyniok.\
 *International Conference on Learning Representations (ICLR)*, 2026.
-
-**Conditional Deep Generative Modeling of Blood-Based Infrared Spectra Enables Controlled In-Silico Phenotyping Studies** ([link](https://www.researchsquare.com/article/rs-8540695/v1))\
-N. Leopold-Kerschbaumer, T. Halenke, S. Süzeroğlu, M. Jung, M. Seleznova, N. Thorisch, J. Lorenz, T. Bocklitz, B. Eskofier, G. Kutyniok, F. Krausz, K. Kepesidis.\
-*Research Square preprint*, 2026.
 
 **Revisiting Glorot Initialization for Long-Range Linear Recurrences** ([link](https://proceedings.neurips.cc/paper_files/paper/2025/file/4fbc7f29151b7c1f0e1f1e5c51c4f5b3-Paper-Conference.pdf))\
 N. Bar\*, M. Seleznova\*, Y. Alexander, G. Kutyniok, R. Giryes.\
